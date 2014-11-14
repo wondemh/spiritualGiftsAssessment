@@ -6,7 +6,7 @@ include 'shared/chartDataGenerator.php';
 <div class="container">
 	<h1>Survey Results</h1>
 	<p>
-		Below are the results of your survey.
+		Below are the results of your survey. Scroll down for more.
 	</p>
 	<div>
 		<ul id="surveyResultTabs" class="nav nav-tabs" role="tablist">

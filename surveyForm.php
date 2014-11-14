@@ -3,7 +3,7 @@ include 'shared/header.php';
 ?>
 
 <div class="container">
-	<h1>Spiritual Gift Assessment</h1>
+	<h1>Spiritual Gift Assessment (SGA99)</h1>
 	<div role="alert" class="alert alert-info">
 	      <strong>Instructions:</strong> 
 	      Leaving no question blank, rate how these qualities apply to you on a scale of 0 to 3. 
