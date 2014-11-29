@@ -14,6 +14,9 @@ include 'shared/chartDataGenerator.php';
 				<a data-toggle="tab" role="tab" href="#charts">Charts</a>
 			</li>
 			<li>
+				<a data-toggle="tab" role="tab" href="#matches">Ministry Matches</a>
+			</li>
+			<li>
 				<a data-toggle="tab" role="tab" href="#communicationMinistryMatching">Communication Ministry Match</a>
 			</li>
 			<li>
@@ -34,6 +37,11 @@ include 'shared/chartDataGenerator.php';
 			<div id="charts" class="tab-pane fade in active">
 				<?php
 				include 'resulttabs/surveyCharts.php';
+				?>
+			</div>
+			<div id="matches" class="tab-pane fade">
+				<?php
+				include 'resulttabs/matches.php';
 				?>
 			</div>
 			<div id="communicationMinistryMatching" class="tab-pane fade">
