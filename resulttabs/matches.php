@@ -235,6 +235,11 @@
 			$cellCount++;
 
 		}
+
+		if ($cellCount == 2) {
+			echo "</div>";
+		}
+
 		?>
 
 		</div>
