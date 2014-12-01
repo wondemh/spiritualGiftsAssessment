@@ -1,6 +1,6 @@
 <div class="panel panel-primary">
 	<div class="panel-heading text-center text-capitalize">
-		Teaching
+		Encouragement
 	</div>
 	<div class="panel-body">
 		<table class="table">

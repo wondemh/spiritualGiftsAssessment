@@ -1,6 +1,12 @@
 <?php
 include 'shared/header.php';
 include 'shared/chartDataGenerator.php';
+
+$dataGenerator = new ChartDataGenerator();
+
+$individualGiftsData = $dataGenerator -> getIndividualGiftsData();
+$allGiftsData = $dataGenerator -> getAllGiftsData();
+
 ?>
 
 <div class="container">
@@ -14,8 +20,9 @@ include 'shared/chartDataGenerator.php';
 				<a data-toggle="tab" role="tab" href="#charts">Charts</a>
 			</li>
 			<li>
-				<a data-toggle="tab" role="tab" href="#matches">Ministry Matches</a>
+				<a data-toggle="tab" role="tab" href="#matches">Temperament and Ministry Matches</a>
 			</li>
+<!--
 			<li>
 				<a data-toggle="tab" role="tab" href="#communicationMinistryMatching">Communication Ministry Match</a>
 			</li>
@@ -31,6 +38,7 @@ include 'shared/chartDataGenerator.php';
 			<li>
 				<a data-toggle="tab" role="tab" href="#callMatching">Call Matching</a>
 			</li>
+-->
 		</ul>
 
 		<div id="tabContents" class="tab-content">
@@ -72,12 +80,6 @@ include 'shared/chartDataGenerator.php';
 		</div>
 	</div>
 </div>
-<?php
-$dataGenerator = new ChartDataGenerator();
-
-$individualGiftsData = $dataGenerator -> getIndividualGiftsData();
-$allGiftsData = $dataGenerator -> getAllGiftsData();
-?>
 
 <script src="js/surveyResults.js"></script>
 <script type="text/javascript">

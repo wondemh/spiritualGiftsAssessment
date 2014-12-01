@@ -1,6 +1,6 @@
 <div class="panel panel-primary">
 	<div class="panel-heading text-center text-capitalize">
-		Teaching
+		Giving
 	</div>
 	<div class="panel-body">
 		<table class="table">
@@ -14,11 +14,63 @@
 				<tr>
 					<td>
 					<ul>
-						<li>You are very selfless, You tithe your income, You motivate others to give, You have even in your need, You don't like waste, You are financially blessed, You are Kingdom-focused, You are accountable</li>
+						<li>
+							You are very selfless
+						</li>
+						<li>
+							You tithe your income
+						</li>
+						<li>
+							You motivate others to give
+						</li>
+						<li>
+							You have even in your need
+						</li>
+						<li>
+							You don't like waste
+						</li>
+						<li>
+							You are financially blessed
+						</li>
+						<li>
+							You are Kingdom-focused
+						</li>
+						<li>
+							You are accountable
+						</li>
 					</ul></td>
 					<td>
 					<ul>
-						<li>Stewardship Ministry, Finanancial Management, Capital Improvements, Audit and Finance Ministry, Asset Management, Investment Board, Pastoral Care, Treasurer, Endowment Fund, Fund Raising</li>
+						<li>
+							Stewardship Ministry
+						</li>
+						<li>
+							Finanancial Management
+						</li>
+						<li>
+							Capital Improvements
+						</li>
+						<li>
+							Audit and Finance Ministry
+						</li>
+						<li>
+							Asset Management
+						</li>
+						<li>
+							Investment Board
+						</li>
+						<li>
+							Pastoral Care
+						</li>
+						<li>
+							Treasurer
+						</li>
+						<li>
+							Endowment Fund
+						</li>
+						<li>
+							Fund Raising
+						</li>
 					</ul></td>
 				</tr>
 			</tbody>

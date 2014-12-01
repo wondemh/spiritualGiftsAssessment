@@ -1,6 +1,6 @@
 <div class="panel panel-primary">
 	<div class="panel-heading text-center text-capitalize">
-		Teaching
+		Healing
 	</div>
 	<div class="panel-body">
 		<table class="table">
@@ -14,11 +14,51 @@
 				<tr>
 					<td>
 					<ul>
-						<li></li>
+						<li>
+							You think things through
+						</li>
+						<li>
+							You are goal-oriented
+						</li>
+						<li>
+							You are very organized
+						</li>
+						<li>
+							You are methodical
+						</li>
+						<li>
+							You like things to fit together
+						</li>
+						<li>
+							You ike to prioritize
+						</li>
+						<li>
+							You are task-oriented
+						</li>
+						<li>
+							You pay attention to details
+						</li>
 					</ul></td>
 					<td>
 					<ul>
-						<li></li>
+						<li>
+							Healing Ministry
+						</li>
+						<li>
+							Hospital Visitiation
+						</li>
+						<li>
+							Prayer Ministry
+						</li>
+						<li>
+							Healing Ministry
+						</li>
+						<li>
+							Deliverance Ministry
+						</li>
+						<li>
+							Evangelism
+						</li>
 					</ul></td>
 				</tr>
 			</tbody>

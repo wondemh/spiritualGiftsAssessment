@@ -1,6 +1,6 @@
 <div class="panel panel-primary">
 	<div class="panel-heading text-center text-capitalize">
-		Teaching
+		Interpretation of Tongues
 	</div>
 	<div class="panel-body">
 		<table class="table">
@@ -14,11 +14,57 @@
 				<tr>
 					<td>
 					<ul>
-						<li></li>
+						<li>
+							You love people
+						</li>
+						<li>
+							You care for the weak
+						</li>
+						<li>
+							You like to counsel people
+						</li>
+						<li>
+							You like to offer help to people
+						</li>
+						<li>
+							You like to build others up
+						</li>
+						<li>
+							You like to defend the weak
+						</li>
+						<li>
+							You feel responsible for others
+						</li>
+						<li>
+							You sacrifice yourself for others
+						</li>
 					</ul></td>
 					<td>
 					<ul>
-						<li></li>
+						<li>
+							Prophetic Ministry
+						</li>
+						<li>
+							Preaching Ministry
+						</li>
+						<li>
+							Counseling Ministry
+						</li>
+						<li>
+							Bible School teacher
+						</li>
+						<li>
+							Intercessory Prayer
+						</li>
+						<li>
+							Exhortation
+						</li>
+						<li>
+							Language Ministry
+						</li>
+						<li>
+							Advisor
+						</li>
 					</ul></td>
 				</tr>
 			</tbody>

@@ -1,5 +1,5 @@
 
-	<div class="container" style="margin-top: 20px;">
+	<div class="container" style="margin-top: 40px;">
 		<nav class="navbar navbar-default navbar-fixed-bottom" style="padding: 10px;" role="navigation">
 			<p class="text-muted text-center">
 				Developed by Lennox Zamore, <a href="http://www.zamoreministries.org">Zamore Ministries</a>, LLC © 2014 - All Rights Reserved.<br/>

@@ -1,6 +1,6 @@
 <div class="panel panel-primary">
 	<div class="panel-heading text-center text-capitalize">
-		Teaching
+		Administration
 	</div>
 	<div class="panel-body">
 		<table class="table">
@@ -14,11 +14,72 @@
 				<tr>
 					<td>
 					<ul>
-						<li>You think things thorough, You are goal-oriented, You are very organized, You are methodical, You like things to fit together, You ike to prioritize, You are task-oriented, You pay attention to details</li>
+						<li>
+							You think things thorough
+						</li>
+						<li>
+							You are goal-oriented
+						</li>
+						<li>
+							You are very organized
+						</li>
+						<li>
+							You are methodical
+						</li>
+						<li>
+							You like things to fit together
+						</li>
+						<li>
+							You ike to prioritize
+						</li>
+						<li>
+							You are task-oriented
+						</li>
+						<li>
+							You pay attention to details
+						</li>
 					</ul></td>
 					<td>
 					<ul>
-						<li>Board Member, Advisory Committee, Deligate, Trustee, Treasurer, Church Secretary, Head Deacon/Deaconess, Finance Committee, Public Relations, Office Manager, Administrative Assistant, Corporate President or Secretary, Chief Executive Officer</li>
+						<li>
+							Board Member
+						</li>
+						<li>
+							Advisory Committee
+						</li>
+						<li>
+							Deligate
+						</li>
+						<li>
+							Trustee
+						</li>
+						<li>
+							Treasurer
+						</li>
+						<li>
+							Church Secretary
+						</li>
+						<li>
+							Head Deacon/Deaconess
+						</li>
+						<li>
+							Finance Committee
+						</li>
+						<li>
+							Public Relations
+						</li>
+						<li>
+							Office Manager
+						</li>
+						<li>
+							Administrative Assistant
+						</li>
+						<li>
+							Corporate President or Secretary
+						</li>
+						<li>
+							Chief Executive Officer
+						</li>
 					</ul></td>
 				</tr>
 			</tbody>

@@ -30,6 +30,8 @@ class ChartDataGenerator {
 	private $corporateGifts;
 	private $captivatingGifts;
 	
+	private $individualGifts;
+	
 	public function __construct() {
 		$this -> prophesy = $_POST['C6'] + $_POST['C46'] + $_POST['C105'] + $_POST['C91'];
 		$this -> teaching = $_POST['C9'] + $_POST['C41'] + $_POST['C11'] + $_POST['C54'];
@@ -61,10 +63,15 @@ class ChartDataGenerator {
 		$this -> corporateGifts = array("Leadership" => $this -> leadership, "Service" => $this -> service, "Helps" => $this -> helps, "Administration" => $this -> administration);
 		$this -> captivatingGifts = array("Miracles" => $this -> miracles, "Discerning of Spirits" => $this -> discerningOfSpirits, "Healing" => $this -> healing, "Tongues" => $this -> tongues, "Interpretation of Tongues" => $this -> interpretationOfTongues);
 
+		$this -> individualGifts = array("Prophecy" => $this -> prophesy, "Teaching" => $this -> teaching, "Wisdom" => $this -> wisdom, "Knowledge" => $this -> knowledge, "Encouragement" => $this -> encouragement, "Mercy" => $this -> mercy, "Hospitality" => $this -> hospitality, "Faith" => $this -> faith, "Giving" => $this -> giving, "Leadership" => $this -> leadership, "Service" => $this -> service, "Helps" => $this -> helps, "Administration" => $this -> administration, "Miracles" => $this -> miracles, "Discerning of Spirits" => $this -> discerningOfSpirits, "Healing" => $this -> healing, "Tongues" => $this -> tongues, "Interpretation of Tongues" => $this -> interpretationOfTongues, "Pastor" => $this -> pastor, "Deacon" => $this -> deacon, "Evangelist" => $this -> evangelist, "Missionary" => $this -> missionary, "Falcification Level" => $this -> falicificationLevel);
 	}
 
 	public function getIndividualGiftsData() {
-		return array("Prophecy" => $this -> prophesy, "Teaching" => $this -> teaching, "Wisdom" => $this -> wisdom, "Knowledge" => $this -> knowledge, "Encouragement" => $this -> encouragement, "Mercy" => $this -> mercy, "Hospitality" => $this -> hospitality, "Faith" => $this -> faith, "Giving" => $this -> giving, "Leadership" => $this -> leadership, "Service" => $this -> service, "Helps" => $this -> helps, "Administration" => $this -> administration, "Miracles" => $this -> miracles, "Discerning of Spirits" => $this -> discerningOfSpirits, "Healing" => $this -> healing, "Tongues" => $this -> tongues, "Interpretation of Tongues" => $this -> interpretationOfTongues, "Pastor" => $this -> pastor, "Deacon" => $this -> deacon, "Evangelist" => $this -> evangelist, "Missionary" => $this -> missionary, "Falcification Level" => $this -> falicificationLevel);
+		return $this -> individualGifts;
+	}
+	
+	public function getGiftValue($giftName) {
+		return $this -> individualGifts[$giftName];
 	}
 	
 	public function getAllGiftsData() {
