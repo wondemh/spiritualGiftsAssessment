@@ -52,31 +52,6 @@ $allGiftsData = $dataGenerator -> getAllGiftsData();
 				include 'resulttabs/matches.php';
 				?>
 			</div>
-			<div id="communicationMinistryMatching" class="tab-pane fade">
-				<?php
-				include 'resulttabs/communicationMinistryMatching.php';
-				?>
-			</div>
-			<div id="caringMatching" class="tab-pane fade">
-				<?php
-				include 'resulttabs/caringMatching.php';
-				?>
-			</div>
-			<div id="corporateMatching" class="tab-pane fade">
-				<?php
-				include 'resulttabs/corporateMatching.php';
-				?>
-			</div>
-			<div id="captivatingMatching" class="tab-pane fade">
-				<?php
-				include 'resulttabs/captivatingMatching.php';
-				?>
-			</div>
-			<div id="callMatching" class="tab-pane fade">
-				<?php
-				include 'resulttabs/callMatching.php';
-				?>
-			</div>
 		</div>
 	</div>
 </div>

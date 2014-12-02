@@ -23,7 +23,7 @@ class ChartDataGenerator {
 	private $deacon;
 	private $evangelist;
 	private $missionary;
-	private $falicificationLevel;
+	private $falsificationLevel;
 	
 	private $communicationGifts;
 	private $caringGifts;
@@ -55,7 +55,7 @@ class ChartDataGenerator {
 		$this -> deacon = $_POST['C95'] + $_POST['C96'] + $_POST['C97'] + $_POST['C98'];
 		$this -> evangelist = $_POST['C43'] + $_POST['C92'] + $_POST['C101'] + $_POST['C60'];
 		$this -> missionary = $_POST['C103'] + $_POST['C104'] + $_POST['C105'] + $_POST['C106'];
-		$this -> falicificationLevel = $_POST['C17'] + $_POST['C22'] + $_POST['C27'] + $_POST['C32'] + $_POST['C37'] + $_POST['C56'] + $_POST['C61'] + $_POST['C66'] + $_POST['C81'];
+		$this -> falsificationLevel = $_POST['C17'] + $_POST['C22'] + $_POST['C27'] + $_POST['C32'] + $_POST['C37'] + $_POST['C56'] + $_POST['C61'] + $_POST['C66'] + $_POST['C81'];
 
 		//All gifts results arrays
 		$this -> communicationGifts = array("Prophecy" => $this -> prophesy, "Teaching" => $this -> teaching, "Wisdom" => $this -> wisdom, "Knowledge" => $this -> knowledge);
@@ -63,7 +63,7 @@ class ChartDataGenerator {
 		$this -> corporateGifts = array("Leadership" => $this -> leadership, "Service" => $this -> service, "Helps" => $this -> helps, "Administration" => $this -> administration);
 		$this -> captivatingGifts = array("Miracles" => $this -> miracles, "Discerning of Spirits" => $this -> discerningOfSpirits, "Healing" => $this -> healing, "Tongues" => $this -> tongues, "Interpretation of Tongues" => $this -> interpretationOfTongues);
 
-		$this -> individualGifts = array("Prophecy" => $this -> prophesy, "Teaching" => $this -> teaching, "Wisdom" => $this -> wisdom, "Knowledge" => $this -> knowledge, "Encouragement" => $this -> encouragement, "Mercy" => $this -> mercy, "Hospitality" => $this -> hospitality, "Faith" => $this -> faith, "Giving" => $this -> giving, "Leadership" => $this -> leadership, "Service" => $this -> service, "Helps" => $this -> helps, "Administration" => $this -> administration, "Miracles" => $this -> miracles, "Discerning of Spirits" => $this -> discerningOfSpirits, "Healing" => $this -> healing, "Tongues" => $this -> tongues, "Interpretation of Tongues" => $this -> interpretationOfTongues, "Pastor" => $this -> pastor, "Deacon" => $this -> deacon, "Evangelist" => $this -> evangelist, "Missionary" => $this -> missionary, "Falcification Level" => $this -> falicificationLevel);
+		$this -> individualGifts = array("Prophecy" => $this -> prophesy, "Teaching" => $this -> teaching, "Wisdom" => $this -> wisdom, "Knowledge" => $this -> knowledge, "Encouragement" => $this -> encouragement, "Mercy" => $this -> mercy, "Hospitality" => $this -> hospitality, "Faith" => $this -> faith, "Giving" => $this -> giving, "Leadership" => $this -> leadership, "Service" => $this -> service, "Helps" => $this -> helps, "Administration" => $this -> administration, "Miracles" => $this -> miracles, "Discerning of Spirits" => $this -> discerningOfSpirits, "Healing" => $this -> healing, "Tongues" => $this -> tongues, "Interpretation of Tongues" => $this -> interpretationOfTongues, "Pastor" => $this -> pastor, "Deacon" => $this -> deacon, "Evangelist" => $this -> evangelist, "Missionary" => $this -> missionary, "Falsification Level" => $this -> falsificationLevel);
 	}
 
 	public function getIndividualGiftsData() {

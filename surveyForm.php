@@ -40,8 +40,8 @@ include 'shared/header.php';
 		<td>{{this.index}}</td>
 		<td>{{this.question}}</td>
 		<td><input type="radio" name="{{this.inputId}}" value="0"/></td>
-		<td><input type="radio" name="{{this.inputId}}" value="1"/></td>
-		<td><input type="radio" name="{{this.inputId}}" value="2" checked/></td>
+		<td><input type="radio" name="{{this.inputId}}" value="1" checked/></td>
+		<td><input type="radio" name="{{this.inputId}}" value="2"/></td>
 		<td><input type="radio" name="{{this.inputId}}" value="3"/></td>
 	</tr>
 	{{/each}}
