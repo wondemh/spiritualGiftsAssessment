@@ -10,7 +10,7 @@ $allGiftsData = $dataGenerator -> getAllGiftsData();
 ?>
 
 <div class="container">
-	<h1>Survey Results</h1>
+	<h1><img class="img-responsive" src="images/logo.jpg" alt="" style="display: inline;"/> Survey Results</h1>
 	<p>
 		Below are the results of your survey. Scroll down for more.
 	</p>
