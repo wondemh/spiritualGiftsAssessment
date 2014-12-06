@@ -23,7 +23,7 @@ $allGiftsData = $dataGenerator -> getAllGiftsData();
 				<a data-toggle="tab" role="tab" href="#matches">Temperament and Ministry Matches</a>
 			</li>
 			<li>
-				<a data-toggle="tab" role="tab" href="#aboutAssessment">About the Assessment</a>
+				<a data-toggle="tab" role="tab" href="#aboutAssessment">About This Assessment</a>
 			</li>
 		</ul>
 
