@@ -26,7 +26,6 @@ function SurveyResults() {
 		};
 		var ctx = $("#individualGiftsChart").get(0).getContext("2d");
 		var myBarChart = new Chart(ctx).Bar(data);
-		//console.log(myBarChart.generateLegend());
 	};
 	
 	this.drawAllGiftsChart = function(chartLabels, chartData) {
@@ -48,7 +47,6 @@ function SurveyResults() {
 	this.drawPieChart = function(chartId, chartLegendContainerId, chartData) {
 		var ctx = $("#" + chartId).get(0).getContext("2d");
 		var myPieChart = new Chart(ctx).Pie(chartData);
-		console.log(myPieChart.generateLegend());
 		var legend = myPieChart.generateLegend();
 		legend = legend.replace(/<\/span>/g, '&nbsp;&nbsp;&nbsp;&nbsp;</span>');
 		legend = legend.replace(/style=\"/g, 'style="margin-right: 5px; ');
