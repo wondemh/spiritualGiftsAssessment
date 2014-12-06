@@ -61,7 +61,7 @@ function SurveyForm() {
 		{index: "57", inputId: "C63", question: "I am a very orderly and well-organized person"},
 		{index: "58", inputId: "C64", question: "I think the Holy Spirit wants me to serve under a pastor in a local congregation"},
 		{index: "59", inputId: "C65", question: "I rather manage projects than people"},
-		{index: "60", inputId: "C66", question: "Gifts of the Spirit come from heredity not from the spirit"},
+		{index: "60", inputId: "C66", question: "Gifts of the Spirit come from heredity not from the Spirit"},
 		{index: "61", inputId: "C67", question: "I have no difficulty believing that God can do the impossible"},
 		{index: "62", inputId: "C68", question: "I am good at clarifying a vision and mobilizing others toward action"},
 		{index: "63", inputId: "C69", question: "I absolutely love mission trips"},

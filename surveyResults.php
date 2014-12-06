@@ -22,23 +22,9 @@ $allGiftsData = $dataGenerator -> getAllGiftsData();
 			<li>
 				<a data-toggle="tab" role="tab" href="#matches">Temperament and Ministry Matches</a>
 			</li>
-<!--
 			<li>
-				<a data-toggle="tab" role="tab" href="#communicationMinistryMatching">Communication Ministry Match</a>
+				<a data-toggle="tab" role="tab" href="#aboutAssessment">About the Assessment</a>
 			</li>
-			<li>
-				<a data-toggle="tab" role="tab" href="#caringMatching">Caring Gift Matching</a>
-			</li>
-			<li>
-				<a data-toggle="tab" role="tab" href="#corporateMatching">Corporate Gift Matching</a>
-			</li>
-			<li>
-				<a data-toggle="tab" role="tab" href="#captivatingMatching">Captivating Gifts</a>
-			</li>
-			<li>
-				<a data-toggle="tab" role="tab" href="#callMatching">Call Matching</a>
-			</li>
--->
 		</ul>
 
 		<div id="tabContents" class="tab-content">
@@ -50,6 +36,11 @@ $allGiftsData = $dataGenerator -> getAllGiftsData();
 			<div id="matches" class="tab-pane fade">
 				<?php
 				include 'resulttabs/matches.php';
+				?>
+			</div>
+			<div id="aboutAssessment" class="tab-pane fade">
+				<?php
+				include 'resulttabs/aboutAssessment.php';
 				?>
 			</div>
 		</div>

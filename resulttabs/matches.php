@@ -5,11 +5,11 @@ $totalCount = 0;
 <div class="container" style="margin-bottom: 40px;">
 
 	<p style="padding-top: 20px; padding-bottom: 20px;">
-		This section lists ministries that would be suitable for you based on your survey results.
+		Based on your test responses, your highest gift scores are indicated below.  The tables are temperamental and ministry matches for each of these high scoring gifts.
 	</p>
 
 	<?php
-if ($dataGenerator -> getGiftValue("Falsification Level") > 7) {
+if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 	?>
 	<div class="alert alert-warning alert-dismissible" role="alert">
 		<button type="button" class="close" data-dismiss="alert">
