@@ -55,7 +55,7 @@ class ChartDataGenerator {
 		$this -> deacon = $_POST['C95'] + $_POST['C96'] + $_POST['C97'] + $_POST['C98'];
 		$this -> evangelist = $_POST['C43'] + $_POST['C92'] + $_POST['C101'] + $_POST['C60'];
 		$this -> missionary = $_POST['C103'] + $_POST['C104'] + $_POST['C105'] + $_POST['C106'];
-		$this -> falsificationLevel = $_POST['C17'] + $_POST['C22'] + $_POST['C27'] + $_POST['C32'] + $_POST['C37'] + $_POST['C56'] + $_POST['C61'] + $_POST['C66'] + $_POST['C81'];
+		$this -> falsificationLevel = ($_POST['C17'] + $_POST['C22'] + $_POST['C27'] + $_POST['C32'] + $_POST['C37'] + $_POST['C61'] + $_POST['C66'] + $_POST['C81'])/2;
 
 		//All gifts results arrays
 		$this -> communicationGifts = array("Prophecy" => $this -> prophesy, "Teaching" => $this -> teaching, "Wisdom" => $this -> wisdom, "Knowledge" => $this -> knowledge);
