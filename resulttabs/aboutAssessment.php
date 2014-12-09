@@ -5,7 +5,7 @@
 	<h3>About Spiritual Gifts Assessment SGA 99</h3>
 
 	<p>
-		SGA99 was developed by Reverend Lennox Zamore a local pastor and president of an association of churches.  Pastor Zamore is a theologian and also a Christian clinician with a Master’s Degree in Clinical Psychology.  Pastor Zamore designed SGA99 as a guide to assist Christians to identify their spiritual gifts and calls and use them in the local church as God intends.  The assessment comprises 99 which the participant rates.  Participants are encouraged to complete the questions prayerfully and as honestly as possible.  Once complete and submitted, the assessments immediately rates the responses and provides graphs, charts, and suggestions of spiritual gift temperamental traits and recommended ministries.  The assessment and all recommendations are suggested son this assessment is not to be used for vocational purposes.
+		SGA99 was developed by Reverend Lennox Zamore a local pastor and president of an association of churches.  Pastor Zamore is a theologian and also a Christian clinician with a Master’s Degree in Clinical Psychology.  Pastor Zamore designed SGA99 as a guide to assist Christians to identify their spiritual gifts and calls and use them in the local church as God intends.  The assessment comprises 99 questions which the participant rates.  Participants are encouraged to complete the questions prayerfully and as honestly as possible.  Once complete and submitted, the assessment immediately rates the responses and provides graphs, charts, and suggestions of spiritual gift temperamental traits and recommended ministries.  The assessment and all recommendations are suggested on this assessment is not to be used for vocational purposes.
 	</p>
 
 	<p>
@@ -21,7 +21,7 @@
 	<h4>Communication Gifts</h4>
 	<ul>
 		<li>
-			<b>Prophecy</b> - Spirit-enabled ability to speak out for God either by foretelling or forth-telling Teaching - Spirit-enabled ability to clearly explain and apply the Bible in a way that inspires them to learn.  Romans 12: 7.
+			<b>Prophecy</b> - Spirit-enabled ability to speak out for God either by foretelling or forth-telling. Teaching - Spirit-enabled ability to clearly explain and apply the Bible in a way that inspires them to learn.  Romans 12: 7.
 		</li>
 		<li>
 			<b>Teaching</b> - Spirit-enabled ability to clearly explain and apply the Bible in a way that inspires them to learn.  Romans 12:8
@@ -43,7 +43,7 @@
 			<b>Mercy</b> - Spirit-enabled ability to put oneself in the place of others, feel the emotions of others, empathizing with them and help them overcome challenges. Romans 12:8
 		</li>
 		<li>
-			<b>Hospitality</b> - Spirit-enabled ability to show people, especially strangers feel welcomed and accepted in the church. Romans 12:13
+			<b>Hospitality</b> - Spirit-enabled ability to help people, especially strangers feel welcomed and accepted in the church. Romans 12:13
 		</li>
 		<li>
 			<b>Faith</b> - Spirit-enabled ability to trust God and get a breakthrough despite circumstances that may suggest otherwise.  I Corinthians 12: 9
@@ -62,29 +62,29 @@
 			<b>Service</b> - Spirit-enabled ability to identify the unmet needs in the church and Kingdom and to take the initiative to assist in meeting that need often without recognition or remuneration.  Romans 12: 7
 		</li>
 		<li>
-			<b>Helps</b> - Often synonymous with “Service” the ability to come alongside others in need and assist them often without recognition or prompting
+			<b>Helps</b> - Often synonymous with “Service” the ability to come alongside others in need and assist them often without recognition or prompting. 1 Corinthians 12:28
 		</li>
 		<li>
-			<b>Administration</b> - Spirit-enabled a ability to organize and direct the gifts and abilities of others, enlist them, provide the right resources and coordinate and manage projects in accordance with a plan 1 Corinthians 12:27–28
+			<b>Administration</b> - Spirit-enabled ability to organize and direct the gifts and abilities of others, enlist them, provide the right resources and coordinate and manage projects in accordance with a plan 1 Corinthians 12:27–28
 		</li>
 	</ul>
 
 	<h4>Captivating Gifts</h4>
 	<ul>
 		<li>
-			<b>Miracles</b> - Spirit-enabled ability to call on secure the enablement of God to perform acts that could not be performed by natural means. I Corinthians 12: 10
+			<b>Miracles</b> - Spirit-enabled ability to call on and secure the enablement of God to perform acts that could not be performed by natural means. 1 Corinthians 12: 10
 		</li>
 		<li>
 			<b>Discerning of Spirits</b> – Spirit-enabled ability to discern good and evil in people 1 Corinthians 12: 10
 		</li>
 		<li>
-			<b>Gifts of Healing</b> - Spirit-enabled ability to restore ill persons to wellness, through calling on God's power. I Corinthians 12:9
+			<b>Gifts of Healing</b> - Spirit-enabled ability to restore ill persons to wellness, through calling on God's power. 1 Corinthians 12:9
 		</li>
 		<li>
-			<b>Tongues</b> - Spirit-enabled ability to speak in a foreign language one did not know I Corinthians 12: 10, I Corinthians 14, Acts 2: 1-11, Romans 8:26
+			<b>Tongues</b> - Spirit-enabled ability to speak in a foreign language one did not know 1 Corinthians 12: 10, 1 Corinthians 14, Acts 2: 1-11, Romans 8:26
 		</li>
 		<li>
-			<b>Interpretation of Tongues</b> - Spirit-enabled ability to interpret a foreign language one did not know.  I Corinthians 12:10; 14
+			<b>Interpretation of Tongues</b> - Spirit-enabled ability to interpret a foreign language one did not know.  1 Corinthians 12:10; 14
 		</li>
 	</ul>
 </div>
