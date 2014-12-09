@@ -65,7 +65,7 @@
 			<b>Helps</b> - Often synonymous with “Service” the ability to come alongside others in need and assist them often without recognition or prompting. 1 Corinthians 12:28
 		</li>
 		<li>
-			<b>Administration</b> - Spirit-enabled ability to organize and direct the gifts and abilities of others, enlist them, provide the right resources and coordinate and manage projects in accordance with a plan 1 Corinthians 12:27–28
+			<b>Administration</b> - Spirit-enabled ability to organize and direct the gifts and abilities of others, enlist them, provide the right resources and coordinate and manage projects in accordance with a plan. 1 Corinthians 12:27–28
 		</li>
 	</ul>
 
