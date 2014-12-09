@@ -27,7 +27,7 @@
 			<b>Teaching</b> - Spirit-enabled ability to clearly explain and apply the Bible in a way that inspires them to learn.  Romans 12:8
 		</li>
 		<li>
-			<b>Word of Wisdom</b> - Spirit-enabled wisdom often sudden to help reveal God’s plan and direction in a matter. I Corinthians 12:8
+			<b>Word of Wisdom</b> - Spirit-enabled wisdom often sudden to help reveal God’s plan and direction in a matter. 1 Corinthians 12:8
 		</li>
 		<li>
 			<b>Word of Knowledge</b> - Similar to Words of Wisdom, an often sudden incite or illumination concerning the Scriptures. Corinthians 12:8
@@ -46,7 +46,7 @@
 			<b>Hospitality</b> - Spirit-enabled ability to help people, especially strangers feel welcomed and accepted in the church. Romans 12:13
 		</li>
 		<li>
-			<b>Faith</b> - Spirit-enabled ability to trust God and get a breakthrough despite circumstances that may suggest otherwise.  I Corinthians 12: 9
+			<b>Faith</b> - Spirit-enabled ability to trust God and get a breakthrough despite circumstances that may suggest otherwise.  1 Corinthians 12: 9
 		</li>
 		<li>
 			<b>Giving</b> - Spirit-enabled ability (often secretly) to give resources in order to meet the needs of the Kingdom and others. Romans 12:8
@@ -75,7 +75,7 @@
 			<b>Miracles</b> - Spirit-enabled ability to call on and secure the enablement of God to perform acts that could not be performed by natural means. 1 Corinthians 12: 10
 		</li>
 		<li>
-			<b>Discerning of Spirits</b> – Spirit-enabled ability to discern good and evil in people 1 Corinthians 12: 10
+			<b>Discerning of Spirits</b> – Spirit-enabled ability to discern good and evil in people. 1 Corinthians 12: 10
 		</li>
 		<li>
 			<b>Gifts of Healing</b> - Spirit-enabled ability to restore ill persons to wellness, through calling on God's power. 1 Corinthians 12:9
