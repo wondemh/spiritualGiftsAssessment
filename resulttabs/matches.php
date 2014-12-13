@@ -23,7 +23,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 	?>
 
 	<?php
-	if ($dataGenerator -> getGiftValue("Prophecy") > 7) {
+	if ($dataGenerator -> getGiftValue("Prophecy") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -33,7 +33,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		$cellCount++;
 		$totalCount++;
 	}
-	if ($dataGenerator -> getGiftValue("Teaching") > 7) {
+	if ($dataGenerator -> getGiftValue("Teaching") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -47,7 +47,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Wisdom") > 7) {
+	if ($dataGenerator -> getGiftValue("Wisdom") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -61,7 +61,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Knowledge") > 7) {
+	if ($dataGenerator -> getGiftValue("Knowledge") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -75,7 +75,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Encouragement") > 7) {
+	if ($dataGenerator -> getGiftValue("Encouragement") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -89,7 +89,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Mercy") > 7) {
+	if ($dataGenerator -> getGiftValue("Mercy") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -103,7 +103,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Hospitality") > 7) {
+	if ($dataGenerator -> getGiftValue("Hospitality") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -117,7 +117,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Faith") > 7) {
+	if ($dataGenerator -> getGiftValue("Faith") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -131,7 +131,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Giving") > 7) {
+	if ($dataGenerator -> getGiftValue("Giving") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -145,7 +145,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Leadership") > 7) {
+	if ($dataGenerator -> getGiftValue("Leadership") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -159,7 +159,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Service") > 7) {
+	if ($dataGenerator -> getGiftValue("Service") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -173,7 +173,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Helps") > 7) {
+	if ($dataGenerator -> getGiftValue("Helps") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -187,7 +187,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Administration") > 7) {
+	if ($dataGenerator -> getGiftValue("Administration") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -201,7 +201,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Miracles") > 7) {
+	if ($dataGenerator -> getGiftValue("Miracles") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -215,7 +215,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Discerning of Spirits") > 7) {
+	if ($dataGenerator -> getGiftValue("Discerning of Spirits") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -229,7 +229,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Healing") > 7) {
+	if ($dataGenerator -> getGiftValue("Healing") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -243,7 +243,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Tongues") > 7) {
+	if ($dataGenerator -> getGiftValue("Tongues") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -257,7 +257,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Interpretation of Tongues") > 7) {
+	if ($dataGenerator -> getGiftValue("Interpretation of Tongues") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -271,7 +271,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Pastor") > 7) {
+	if ($dataGenerator -> getGiftValue("Pastor") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -285,7 +285,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Deacon") > 7) {
+	if ($dataGenerator -> getGiftValue("Deacon") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -299,7 +299,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Evangelist") > 7) {
+	if ($dataGenerator -> getGiftValue("Evangelist") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}
@@ -313,7 +313,7 @@ if ($dataGenerator -> getGiftValue("Falsification Level") >= 4) {
 		echo "</div>";
 		$cellCount = 0;
 	}
-	if ($dataGenerator -> getGiftValue("Missionary") > 7) {
+	if ($dataGenerator -> getGiftValue("Missionary") >= 7) {
 		if ($cellCount == 0) {
 			echo "<div class=\"row\">";
 		}

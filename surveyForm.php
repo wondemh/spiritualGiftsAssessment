@@ -7,7 +7,10 @@ include 'shared/header.php';
 	<div role="alert" class="alert alert-info">
 	      <strong>Instructions:</strong> 
 	      Leaving no question blank, rate how these qualities apply to you on a scale of 0 to 3. 
-		  0 = Does Not Apply to Me; 1 = May Apply to Me; 2=Applies to Me; 3 = Always Applies to Me.
+		  0 = Does Not Apply to Me; 1 = May Apply to Me; 2=Applies to Me; 3 = Always Applies to Me.<br/>
+		  Answer the questions as honestly as possible based on how you are not how you should be.   
+		  Please note, this instrument does not store or save your answers and results.  
+		  You may copy or print your results but the questionnaire will be blank if you return to it.
 	</div>
 	<div id="surveyErrorsMsg" role="alert" class="alert alert-danger" style="display: none;">
 	      <strong>Missed some questions!</strong> Please answer the highlighted questions below.  It will help us make a better evaluation of your gifts.
@@ -40,7 +43,7 @@ include 'shared/header.php';
 		<td>{{this.index}}</td>
 		<td>{{this.question}}</td>
 		<td><input type="radio" name="{{this.inputId}}" value="0"/></td>
-		<td><input type="radio" name="{{this.inputId}}" value="1" checked/></td>
+		<td><input type="radio" name="{{this.inputId}}" value="1"/></td>
 		<td><input type="radio" name="{{this.inputId}}" value="2"/></td>
 		<td><input type="radio" name="{{this.inputId}}" value="3"/></td>
 	</tr>

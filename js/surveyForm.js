@@ -7,7 +7,7 @@ function SurveyForm() {
 		{index: "4", inputId: "C9", question: "I am fascinated by the Word of God and love to dig deep into it"},
 		{index: "5", inputId: "C10", question: "I like to empathize with people who are going through hardship"},
 		{index: "6", inputId: "C11", question: "I am good at helping people learn things"},
-		{index: "7", inputId: "C12", question: "I can tell the motivating spirit behind people’s words or actions?"},
+		{index: "7", inputId: "C12", question: "I can tell the motivating spirit behind people’s words or actions"},
 		{index: "8", inputId: "C13", question: "I seem to have insight into what God is doing in people or situations"},
 		{index: "9", inputId: "C14", question: "I like to give my time, ability and resources to others"},
 		{index: "10", inputId: "C15", question: "I feel obligated to care for and meet the needs of other people"},
@@ -79,18 +79,18 @@ function SurveyForm() {
 		{index: "74", inputId: "C81", question: "My spiritul powers work best when the moon is full"},
 		{index: "75", inputId: "C82", question: "I find myself ministering in unknown language without trying"},
 		{index: "76", inputId: "C83", question: "I am convinced of truth even when it makes no sense"},
-		{index: "77", inputId: "C84", question: "When I pray intensely in private I find myself speaking in tongues?"},
+		{index: "77", inputId: "C84", question: "When I pray intensely in private I find myself speaking in tongues"},
 		{index: "78", inputId: "C85", question: "I cannot resist getting involved when people are hurting"},
 		{index: "79", inputId: "C86", question: "I can sense the presence of an evil spirit or divine anointing on a believer"},
 		{index: "80", inputId: "C87", question: "I have interpreted a foreign language I did not know before and did not know after"},
 		{index: "81", inputId: "C88", question: "I tend to stand with people in time of difficulty without being asked"},
 		{index: "82", inputId: "C89", question: "I feel close to God when interpreting a word given in tongues"},
 		{index: "83", inputId: "C90", question: "I feel almost compelled to help people who lack leadership and direction"},
-		{index: "84", inputId: "C91", question: "I am able to sense danger and like to warn people about it?"},
+		{index: "84", inputId: "C91", question: "I am able to sense danger and like to warn people about it"},
 		{index: "85", inputId: "C92", question: "I prefer to reach the lost than ministering to believers"},
 		{index: "86", inputId: "C93", question: "Reputable people seem to think I should be a pastor"},
 		{index: "87", inputId: "C94", question: "My spiritual gifts come upon me through yoga or mental meditation"},
-		{index: "88", inputId: "C95", question: "I feel the a burden to serve others in the church"},
+		{index: "88", inputId: "C95", question: "I feel the burden to serve others in the church"},
 		{index: "89", inputId: "C96", question: "I feel strong urges to interpret something said in another language"},
 		{index: "90", inputId: "C97", question: "People tend to look to me to make decisions or take action"},
 		{index: "91", inputId: "C98", question: "Pastors seem to think I should be a pastor"},
@@ -101,7 +101,7 @@ function SurveyForm() {
 		{index: "96", inputId: "C103", question: "I am fascinated by reaching people of different races, cultures and ethnicities"},
 		{index: "97", inputId: "C104", question: "I get frustrated if things are disorganized or poorly planned"},
 		{index: "98", inputId: "C105", question: "Sometimes God tells me things before they happen"},
-		{index: "99", inputId: "C106", question: "I want to be a pastor I just want to serve others in a church office"}
+		{index: "99", inputId: "C106", question: "I don't want to be a pastor I just want to serve others in a church office"}
 		
 	];
 	

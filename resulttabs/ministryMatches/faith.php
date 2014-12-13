@@ -18,7 +18,7 @@
 							You are very obedient to God
 						</li>
 						<li>
-							You know the Wod of God
+							You know the Word of God
 						</li>
 						<li>
 							You are an optimistic person
@@ -41,30 +41,36 @@
 					</ul></td>
 					<td>
 					<ul>
+						<li></li>
+						Strategic Planning Ministries</li>
 						<li>
-							You are very obedient to God
+							Intercessory Prayer Ministry
 						</li>
 						<li>
-							You know the Wod of God
+							Capital Projects
 						</li>
 						<li>
-							You are an optimistic person
+							Organizational Development
 						</li>
 						<li>
-							You are bold in prayer
+							Capital Projects
 						</li>
 						<li>
-							You seek God's will and plan
+							Deliverance Ministry
 						</li>
 						<li>
-							You are focused on the future
+							Advisory Committee/Boards
 						</li>
 						<li>
-							You have confidence  in God
+							Trustee Board
 						</li>
 						<li>
-							You trust God for everything
+							Stewardship Ministry
 						</li>
+						<li>
+							Home and Foreign Missions
+						</li>
+
 					</ul></td>
 				</tr>
 			</tbody>
