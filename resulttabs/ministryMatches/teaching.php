@@ -33,12 +33,6 @@
 							You are a systematic thinker
 						</li>
 						<li>
-							You are a systematic thinker
-						</li>
-						<li>
-							You are a systematic thinker
-						</li>
-						<li>
 							You love learning
 						</li>
 					</ul></td>
