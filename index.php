@@ -3,14 +3,15 @@ include 'shared/header.php';
 ?>
 
 <div class="container">
-	<h1><img class="img-responsive" src="images/logo.jpg" alt="" style="display: inline;"/> Spiritual Gift Assessment (SGA99)</h1>
+	<h1><img class="img-responsive" src="images/logo.jpg" alt="" style="display: inline;"/> 
+		Spiritual Gift Assessment <a href="https://animoto.com/play/G7yOpGfxnTmHtrqXS91hSQ" target="_blank">(SGA99)</a>
+	</h1>
 	<div role="alert" class="alert alert-info">
 	      <strong>Instructions:</strong> 
-	      Leaving no question blank, rate how these qualities apply to you on a scale of 0 to 3. 
-		  0 = Does Not Apply to Me; 1 = May Apply to Me; 2=Applies to Me; 3 = Always Applies to Me.<br/>
-		  Answer the questions as honestly as possible based on how you are not how you should be.   
-		  Please note, this instrument does not store or save your answers and results.  
-		  You may copy or print your results but the questionnaire will be blank if you return to it.
+	      Leaving no question blank, rate how these qualities apply to you according to the following scale: Does Not Apply to Me; 
+	      May Apply to Me; Applies to Me; Always Applies to Me.  Answer the questions as honestly as possible based on how you are 
+	      not how you should be. Please note, this instrument does not store or save your answers and results. You may copy or print 
+	      your results but the questionnaire will be blank if you return to it. <a href="https://animoto.com/play/G7yOpGfxnTmHtrqXS91hSQ" target="_blank">Watch this quick intro!</a>
 	</div>
 	<div id="surveyErrorsMsg" role="alert" class="alert alert-danger" style="display: none;">
 	      <strong>Missed some questions!</strong> Please answer the highlighted questions below.  It will help us make a better evaluation of your gifts.
