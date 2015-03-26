@@ -30,4 +30,5 @@
 	</head>
 
 	<body>
+		<?php include_once("analyticsTracking.php") ?>
 		<!-- body goes here -->
